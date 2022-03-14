@@ -1,1 +1,3 @@
 Me llamo Daniel Felipe Puentes, tengo 19 años y mi aspiracion con la materia POO es poder tener conocimientos mas claros sobre los objetos en java y en python
+Solo se pudo hacer commit a la carpeta 'archivos' cuando hubo un documento dentro de la carpeta
+Hay que tener cuidado cuando se modifica dos archivos al mismo tiempo ya que esto puede generar un conflicto en el git el cual no va a saber con que archivo quedarse
