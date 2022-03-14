@@ -1,0 +1,1 @@
+Solo se pudo hacer commit a la carpeta 'archivos' cuando hubo un documento dentro de la carpeta
