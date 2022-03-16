@@ -1,3 +1,5 @@
 Ingrese a continuacion su primer apellido: Puentes
 
 Ingrese a continuacion su segundo apellido: Rocha
+
+A comparacion del archivo "hobby.txt" no hubo errores ya que no se estaba modificando una misma linea de texto a traves de diferentes ramas
